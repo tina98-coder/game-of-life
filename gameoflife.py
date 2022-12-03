@@ -1,7 +1,4 @@
-# AMMARI Anass   
 # BELKESSA Thinhinane
-# CELIK Elif 
-# CHERIEF Lisa
 
 #------------------------------------------------------------------------------
 #                               Extrait ensemble des voyelles
